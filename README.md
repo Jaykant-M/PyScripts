@@ -1,4 +1,4 @@
-# PyScripts
+# Data Visualisation Using Python
 "A picture is worth a thousand words".
 It becomes even more worthwhile when trying to explain the insight obtained from the analysis of increasingly large datasets.
 
